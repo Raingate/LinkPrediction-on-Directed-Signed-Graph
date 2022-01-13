@@ -18,4 +18,4 @@ data includes:
 model:
     stores model parameters.
 
-Do not run python files except main.py !
+Do not run python files except main.py .
